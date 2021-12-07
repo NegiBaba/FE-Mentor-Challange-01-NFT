@@ -1,0 +1,8 @@
+:root {
+  --color-primary-blue: hsl(215, 51%, 70%);
+  --color-primary-cyan: hsl(178, 100%, 50%);
+  --color-body-bg: hsl(217, 54%, 11%);
+  --color-card-bg: hsl(216, 50%, 16%);
+  --color-dark-blue: hsl(215, 32%, 27%);
+  --color-white: hsl(0, 0%, 100%);
+}
